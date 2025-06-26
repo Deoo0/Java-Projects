@@ -1,0 +1,114 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "TestPerson2",
+      "request": "launch",
+      "mainClass": "prelim.TestPerson2",
+      "projectName": "BersalesIT1C_3a9fe13b"
+    },
+    {
+      "type": "java",
+      "name": "TestPerson",
+      "request": "launch",
+      "mainClass": "prelim.TestPerson",
+      "projectName": "BersalesIT1C_3a9fe13b"
+    },
+    {
+      "type": "java",
+      "name": "Test",
+      "request": "launch",
+      "mainClass": "prelim.Test",
+      "projectName": "BersalesIT1C_3a9fe13b"
+    },
+    {
+      "type": "java",
+      "name": "Array4",
+      "request": "launch",
+      "mainClass": "prelim.Array4",
+      "projectName": "BersalesIT1C_3a9fe13b"
+    },
+    {
+      "type": "java",
+      "name": "Array3",
+      "request": "launch",
+      "mainClass": "prelim.Array3",
+      "projectName": "BersalesIT1C_3a9fe13b"
+    },
+    {
+      "type": "java",
+      "name": "Array2",
+      "request": "launch",
+      "mainClass": "prelim.Array2",
+      "projectName": "BersalesIT1C_3a9fe13b"
+    },
+    {
+      "type": "java",
+      "name": "Array1",
+      "request": "launch",
+      "mainClass": "prelim.Array1",
+      "projectName": "BersalesIT1C_3a9fe13b"
+    },
+    {
+      "type": "java",
+      "name": "Compute",
+      "request": "launch",
+      "mainClass": "prelim.Compute",
+      "projectName": "BersalesIT1C_3a9fe13b"
+    },
+    {
+      "type": "java",
+      "name": "Even",
+      "request": "launch",
+      "mainClass": "prelim.Even",
+      "projectName": "BersalesIT1C_3a9fe13b"
+    },
+    {
+      "type": "java",
+      "name": "Sum",
+      "request": "launch",
+      "mainClass": "prelim.Sum",
+      "projectName": "BersalesIT1C_3a9fe13b"
+    },
+    {
+      "type": "java",
+      "name": "Hello2",
+      "request": "launch",
+      "mainClass": "prelim.Hello2",
+      "projectName": "BersalesIT1C_3a9fe13b"
+    },
+    {
+      "type": "java",
+      "name": "Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "demo_7f55b404"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "c:/Code/C++/ACT",
+      "program": "c:/Code/C++/ACT/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}
